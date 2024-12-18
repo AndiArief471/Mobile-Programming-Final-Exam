@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960861345149",
+    "project_id": "mobile-prog-final-exam-78a44",
+    "storage_bucket": "mobile-prog-final-exam-78a44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960861345149:android:4d0c833cf0f13bc027a814",
+        "android_client_info": {
+          "package_name": "com.example.mobileprogfinalexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaZ6CE8hMUH_Vk1XmQhLPGmj4cLHOUACE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
